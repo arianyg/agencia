@@ -1,0 +1,98 @@
+body{ background-color:#39CB85;
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+	position: relative; 
+	top:30px;}
+
+.principal {width: 30%;
+                  background-color: white;
+                  opacity:0.65;
+                  margin: 0 auto;}
+		
+.saiba {width: 65%;
+             margin: 0 auto;}		
+		
+.inf{background-color:white;
+        opacity: 0.65;
+	width:100%;
+	text-align: center;}
+
+.imagem{display:inline-block;
+		background-color:white;
+		width:25%;}
+		
+		
+form {width:30%;
+	background-color:white;
+	margin: 0 auto;
+	text-align: center;
+	color: 008080;
+	font-family: georgian; }
+
+
+h1 { text-align: center;
+	color: #FF8A2A;
+	font-family: georgian;}
+	
+
+h3, h5 { text-align: center;
+	color: 008080;
+	font-family: georgian;}
+	
+h3{color:1C1C1C;
+	font-family: arial;}
+	
+h2 { text-align: center;
+	color: white;
+	font-family: georgian;
+	font-size: 25px;}
+	
+h1{ font-size: 40px;
+	background-color:white;}
+	
+
+a, h4{
+  font-family: verdana ;
+  font-size: 15px;
+  color: 1C1C1C;}
+  
+table,tr, td {color:008080 ;
+	font-family: georgian;
+	font-size: 17px;
+    background-color: white;
+    width: 290px;
+    padding: 10px;
+    border: 5px solid orange;
+    margin: 0;}
+	
+table { border: 1px solid black;
+    width: 50%; 
+    margin: auto; 
+	position: relative;
+	top: 20x;}
+	
+a:link, a:visited {
+background-color: ffa500;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline;
+}
+a:hover, a:active {
+background-color: ffbc40;
+}
+
+.menu {
+background-color:ffa500;
+list-style-type: none;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+.menu li {
+display: inline-block;
+font-size: 15px;
+padding: 15px;
+}
